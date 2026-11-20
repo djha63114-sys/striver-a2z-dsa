@@ -9,7 +9,13 @@ public:
                 i++;
             }
         }
+<<<<<<< HEAD
     
+=======
+      
+        
+        
+>>>>>>> origin/main
 
 
        
